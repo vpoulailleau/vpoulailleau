@@ -1,18 +1,18 @@
-### Hello 👋
+## Hello 👋
 
-### 👨🏻‍💻 &nbsp; 👋
+### 👨🏻‍💻 &nbsp;Mon métier
 
 💡 &nbsp;Je suis formateur Python, C et autres.
 
 ### 🛠 &nbsp;Tech Stack
-
+  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
 ### ⚙️ &nbsp;Statistiques GitHub
 
 <p align="center">
@@ -22,7 +22,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Me contacter
+### 📨 &nbsp;Me contacter
 
 <p align="center">
 <a href="https://linkedin.com/in/vpoulailleau"><img src="https://img.shields.io/badge/-Vincent%20Poulailleau-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
