@@ -27,5 +27,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/vpoulailleau"><img src="https://img.shields.io/badge/-Vincent%20Poulailleau-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vpoulailleau@gmail.com"><img src="https://img.shields.io/badge/-vpoulailleau@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.lecalamar.fr">www.lecalamar.fr</a>
+<a href="https://www.lecalamar.fr"><img src="https://img.shields.io/badge/-www.lecalamar.fr-D14836?style=flat&logo=html5&color=fdf6e3"/></a>
 </p>
