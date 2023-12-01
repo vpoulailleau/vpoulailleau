@@ -16,7 +16,7 @@
 ### ⚙️ &nbsp;Statistiques GitHub
 
 <p align="center">
-  <img height="400em" src="https://github-profile-trophy.vercel.app/?username=vpoulailleau&column=3"/>
+  <img height="400em" src="https://github-profile-trophy.vercel.app/?username=vpoulailleau&column=3&margin-w=15&margin-h=15"/>
 </p>
 
 <p align="center">
