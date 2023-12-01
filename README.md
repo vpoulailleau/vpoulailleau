@@ -16,6 +16,10 @@
 ### ⚙️ &nbsp;Statistiques GitHub
 
 <p align="center">
+  <img height="400em" src="https://github-profile-trophy.vercel.app/?username=vpoulailleau&column=3"/>
+</p>
+
+<p align="center">
 <a href="https://github.com/vpoulailleau">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vpoulailleau&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vpoulailleau&layout=compact&langs_count=8&theme=solarized-light&count_private=true"/>
